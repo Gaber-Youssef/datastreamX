@@ -1,0 +1,2 @@
+Entities (Domain Layer):
+Purpose: Contains the core business logic and entities that are independent of any external system (database, API, etc.).

@@ -1,0 +1,2 @@
+Interface Adapters (Controller/Repository Layer):
+Purpose: Converts data between the domain models and external interfaces like databases, web APIs, or message queues. This is where specific implementations (e.g., SQL queries, cache retrieval) live.

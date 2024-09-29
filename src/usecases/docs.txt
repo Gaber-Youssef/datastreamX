@@ -1,0 +1,4 @@
+Use Cases (Application Layer):
+Purpose: Contains the application's business logic or use cases. Each use case coordinates the data flow between entities and external services.
+
+The use case does not know about specific databases or frameworks; it simply interacts with interfaces (repositories).

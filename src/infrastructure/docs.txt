@@ -1,0 +1,2 @@
+Infrastructure (Database/External Systems Layer):
+Purpose: Handles the external systems like databases, caching, search engines, etc. It connects the actual implementations to the repositories.
